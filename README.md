@@ -16,6 +16,7 @@ CloudFormation allows us to provision infrastructure as code. To test CloudForma
   "Resources": {},
   "Outputs": {}
 }
+```
 
 - **AWSTemplateFormatVersion**: This parameter is optional. Here, we specify the template version.
 - **Description**: A text string describing the template. It should come after AWSTemplateFormatVersion.
